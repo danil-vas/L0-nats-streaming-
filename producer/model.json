@@ -1,0 +1,45 @@
+{
+  "order_uid": "b563feb7b2b84b6test",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Test Testov",
+    "phone": "+9720000000",
+    "zip": "2639809",
+    "region": "Kraiot",
+    "email": "test@gmail.com"
+  },
+  "payment": {
+    "transaction": "b563feb7b2b84b6test",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "delivery_cost": 1500,
+    "goods_total": 317,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 9934930,
+      "track_number": "WBILMTESTTRACK",
+      "brand": "Vivienne Sabo",
+      "status": 202
+    },
+    {
+      "chrt_id": 2,
+      "track_number": "aaaaa",
+      "price": 255,
+      "rid": "dmvkowert",
+      "name": "Window",
+      "sale": 10,
+      "size": "1",
+      "total_price": 1000,
+      "status": 202
+    }
+  ],
+  "locale": "en",
+  "internal_signature": "",
+  "customer_id": "test",
+  "delivery_service": "meest",
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "1"
+}
